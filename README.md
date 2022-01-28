@@ -1,4 +1,4 @@
-# ```SELF-BOT```
+# ```AGIL-BOTZ```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Alphab0t12/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Alphab0t12?color=blue&style=flat-square"></a>
@@ -55,7 +55,7 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/donateagilcodex)
 
 ## ```GROUP SUPPORT```
 
